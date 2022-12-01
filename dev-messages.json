@@ -5,7 +5,7 @@
       "version": null,
       "gmOnly": true,
       "dev": true,
-      "message": "<h2 style='font-family: FlatBread'>Index Card RPG: Master Edition</h2> <p> Thanks for purchasing the official ICRPG permium content for FoundryVTT! <br> You can find the guide on how to use the premium content and report any issues at the following <a href=\"https://github.com/ClipplerBlood/icrpg-premium-content\">link</a></p>"
+      "message": "<h2 style=\"font-family:FlatBread; background: url(systems/icrpgme/assets/ui/backgrounds/bg-bar-red.webp) no-repeat bottom; background-size: 100% 6px; border-bottom: none;\">Index Card RPG: Master Edition</h2> <p> Thanks for purchasing the official ICRPG permium content for FoundryVTT! <br>You can find the guide on how to use the premium content and report any issues at the following <a href=\"https://github.com/ClipplerBlood/icrpg-premium-content\">link</a></p><img src=\"modules/icrpg-premium-content/assets/core-images/book%20as%20shield.webp\" style=\"border: none;\">"
     }
   ]
 }
