@@ -1,6 +1,21 @@
 # Index Card RPG: Master Edition - Official Foundry VTT Module
 Public issue tracking and documentation for the ICRPG: Master Edition FVTT premium content
 
+## What's included
+- 16 Journal entries, from the 400 pages of the book. Each page has been optimized for Foundry VTT
+- More than 1400 Items, each linked directly into the Journals. Easily import items in your characters with simple drag and drop!
+- 70 Actors with complete ARTWORK and TOKENS
+  - 6 vehicles
+  - 12 villains
+  - 4 megafauna
+  - 48 monsters
+- 60 tables
+- More than 300 artwork images from the book, optimized to .webp format to reduce loading times
+- 19 ready to use Scenes
+  - 4 high quality world maps
+  - 3 warp shell interiors
+  - 12 dungeons
+
 ## How to install
 1. Find where your Foundry Module Data is stored. [Where is my data stored?](https://foundryvtt.com/article/configuration/#:~:text=Where%20Is%20My%20Data%20Stored%3F). By default:
   - Windows: `%localappdata%/FoundryVTT/Data/modules`. To go there quickly, you can press Windows+R, paste `%localappdata%/FoundryVTT/Data/modules` and press enter. Alternatively you can manually browse the folder, which is located at: `C:\Users\<YOUR_USER_NAME>\AppData\Local\FoundryVTT\Data\modules`
