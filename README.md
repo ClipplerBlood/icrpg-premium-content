@@ -50,14 +50,23 @@ The _Adventure_ compendium "Index Card RPG: Master Edition" includes:
 - the ICRPG book Journals in the "ICRPG: Master Edition" adventure.
 - the Monsters adventure, containing 48 ready to use Actors from the Monsters section
 - an adventure for each world or book chapter. Those adventures can include: ready to use Tables, Monsters and Scenes
+<p align="center">
+<img src="https://raw.githubusercontent.com/ClipplerBlood/icrpg-premium-content/main/screens/compendiums.png" width="500">
+</p>
+
 
 ##### Importing an adventure
 To import an adventure, open the adventure item inside the compendium, and press the "Import Adventure" button.
+<p align="center">
+<img src="https://raw.githubusercontent.com/ClipplerBlood/icrpg-premium-content/main/screens/adventure.png" width="500">
+</p>
 
 ### Content links and item organization
 In the ICRPG journals, all items present in the book are _linked_ to their respective compendium entry. When hovering on an item name, you can see that its background and color changes indicating that it is a link. With links you can:
 - Click on them to open the Item sheet
 - Drag the link in the Character sheet to quickly add it to the character
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/ClipplerBlood/icrpg-premium-content/main/screens/dragging.gif">
+</p>
 
