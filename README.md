@@ -70,3 +70,7 @@ In the ICRPG journals, all items present in the book are _linked_ to their respe
 <img src="https://raw.githubusercontent.com/ClipplerBlood/icrpg-premium-content/main/screens/dragging.gif">
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/ClipplerBlood/icrpg-premium-content/main/screens/content-link.png" width="700">
+</p>
+
