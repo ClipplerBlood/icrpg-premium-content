@@ -2,9 +2,9 @@
 Public issue tracking and documentation for the ICRPG: Master Edition FVTT premium content
 
 ## What's included
-- 16 Journal entries, from the 400 pages of the book. Each page has been optimized for Foundry VTT
+- 16 Journal entries, from the 400 pages of the book. Each page has been optimized for Foundry VTT, keeping its layout faithful to the original.
 - More than 1400 Items, each linked directly into the Journals. Easily import items in your characters with simple drag and drop!
-- 70 Actors with complete ARTWORK and TOKENS
+- 70 Actors with complete ARTWORK and custom made TOKENS
   - 6 vehicles
   - 12 villains
   - 4 megafauna
@@ -16,11 +16,15 @@ Public issue tracking and documentation for the ICRPG: Master Edition FVTT premi
   - 3 warp shell interiors
   - 12 dungeons
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/ClipplerBlood/icrpg-premium-content/main/screens/tokens.png" width="700">
+</p>
+
 ## How to install
-1. Find where your Foundry Module Data is stored. [Where is my data stored?](https://foundryvtt.com/article/configuration/#:~:text=Where%20Is%20My%20Data%20Stored%3F). By default:
+1. Find where your Foundry Module Data is stored. [Where is my data stored?](https://foundryvtt.com/article/configuration/#:~:text=Where%20Is%20My%20Data%20Stored%3F) By default:
   - Windows: `%localappdata%/FoundryVTT/Data/modules`. To go there quickly, you can press Windows+R, paste `%localappdata%/FoundryVTT/Data/modules` and press enter. Alternatively you can manually browse the folder, which is located at: `C:\Users\<YOUR_USER_NAME>\AppData\Local\FoundryVTT\Data\modules`
-- macOS:  `~/Library/Application Support/FoundryVTT/Data/modules`
-- Linux: `/home/$USER/.local/share/FoundryVTT`, `/home/$USER/FoundryVTT`, `/local/FoundryVTT`
+  - macOS:  `~/Library/Application Support/FoundryVTT/Data/modules`
+  - Linux: `/home/$USER/.local/share/FoundryVTT`, `/home/$USER/FoundryVTT`, `/local/FoundryVTT`
 
 2. After locating where your Foundry install is located, extract the content of the module's zip. After extracting, the modules folder structure should be:
 ```
@@ -32,7 +36,7 @@ FoundryVTT/Data/modules/
 │  ├─ packs/
 │  ├─ styles/
 ```
-Note: the extracted folder's name in FoundryVTT/Data/modules/ must be icrpg-premium-content!
+  Note: the extracted folder's name in FoundryVTT/Data/modules/ must be icrpg-premium-content!
 
 3. You are all set! Restart your foundry application and enable the module in your game settings.
 
