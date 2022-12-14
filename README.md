@@ -1,5 +1,5 @@
 # ICRPG on FOUNDRY VTT: FAQ/Support
-Public issue tracking and documentation for the ICRPG: Master Edition FVTT premium content
+Public issue tracking and documentation for the ICRPG: Master Edition FVTT premium content. Available on the [RUNEHAMMER](https://www.runehammer.online/online-store/ICRPG-Foundry-VTT-Premium-Kit-p517442468) store.
 
 ## What's included
 - 16 Journal entries, from the 400 pages of the book. Each page has been optimized for Foundry VTT, keeping its layout faithful to the original.
