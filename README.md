@@ -20,6 +20,9 @@ Public issue tracking and documentation for the ICRPG: Master Edition FVTT premi
 <img src="https://raw.githubusercontent.com/ClipplerBlood/icrpg-premium-content/main/screens/tokens.png" width="700">
 </p>
 
+## Requirements
+The ICRPG: Master Edition system. https://foundryvtt.com/packages/icrpgme
+
 ## How to install
 You can follow the "Installing a Module Manually" section in the [official FVTT guide](https://foundryvtt.com/article/modules/), or consult the [install guide](https://github.com/ClipplerBlood/icrpg-premium-content/blob/main/INSTALL.md) for a more in-depth guide.
 
